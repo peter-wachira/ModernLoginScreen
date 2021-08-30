@@ -28,7 +28,15 @@ A reusable Authentication User Interface design with a modern feel.
 ```
 
 
-## Contact Details and Documentation
+## Known Bugs
+
+- There are currently no tests done for this project
+- As at the time this project was made, testing and business logic was not a major concern 
+- The project is currently not being maintained any more 
+- Thanks for understanding.
+
+
+## Contact Details
 
 ```bash
 
