@@ -32,7 +32,7 @@ A reusable Authentication User Interface design with a modern feel.
 
 - There are currently no tests done for this project
 - As at the time this project was made, testing and business logic was not a major concern 
-- The project is currently not being maintained any more 
+- The project is currently not being maintained any more. Contributions are welcome if you want to port the project to kotlin
 - Thanks for understanding.
 
 
@@ -40,7 +40,7 @@ A reusable Authentication User Interface design with a modern feel.
 
 ```bash
 
-You can reach me via my personal email pwachira900@gmail.com
+You can reach me via my personal email pwachira900@gmail.com or my website for contibutions or reuse
 
 ```
 
